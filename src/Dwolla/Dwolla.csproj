@@ -82,6 +82,7 @@
     <Compile Include="Services\DwollaUserService.cs" />
     <Compile Include="Services\FulfillOptions.cs" />
     <Compile Include="Services\ListTransactionOptions.cs" />
+    <Compile Include="Services\RegisterOptions.Validate.cs" />
     <Compile Include="Services\RegisterOptions.cs" />
     <Compile Include="Services\RequestTransactionOptions.cs" />
     <Compile Include="Services\SendTransactionOptions.cs" />

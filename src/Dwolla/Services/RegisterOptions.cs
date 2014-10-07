@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace Dwolla.Services
 {
-    public class RegisterOptions
+    public partial class RegisterOptions
     {
         /// <summary>
         /// Consumer key for the application
