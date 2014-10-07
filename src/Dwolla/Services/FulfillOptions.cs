@@ -1,6 +1,6 @@
 ﻿namespace Dwolla.Services
 {
-    public class FulfillOptions
+    public partial class FulfillOptions
     {
         /// <summary>
         /// A valid OAuth token

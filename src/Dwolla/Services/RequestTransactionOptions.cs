@@ -2,7 +2,7 @@
 
 namespace Dwolla.Services
 {
-    public class RequestTransactionOptions
+    public partial class RequestTransactionOptions
     {
         /// <summary>
         /// A valid OAuth token
