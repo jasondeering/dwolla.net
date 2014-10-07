@@ -13,7 +13,7 @@ namespace Dwolla.Tests.ServiceTests
         protected string TestFundId;
 
         [SetUp]
-        public void setup()
+        public void TestBootstrap()
         {
             TestAppKey = ConfigurationManager.AppSettings["TestAppKey"];
             TestAppSecret = ConfigurationManager.AppSettings["TestAppSecret"];
